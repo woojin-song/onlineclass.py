@@ -1,2 +1,2 @@
 # onlineclass.py
-student
+온라인클래스 자동 수강신청 프로그램입니다. (저희 중학교 한정)
